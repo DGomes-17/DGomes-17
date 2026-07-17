@@ -53,16 +53,16 @@ Throughout my academic journey, I developed projects involving web applications,
 
 <table>
 <tr>
-<th>Programming</th>
+<th>Core</th>
 <th>Web & Backend</th>
-<th>Databases</th>
+<th>Data & Databases</th>
 <th>Tools & Systems</th>
 </tr>
 
 <tr>
 <td align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </td>
 <td align="center">
@@ -72,7 +72,7 @@ Throughout my academic journey, I developed projects involving web applications,
 </td>
 <td align="center">
 
-![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 <td align="center">
@@ -85,45 +85,22 @@ Throughout my academic journey, I developed projects involving web applications,
 <tr>
 <td align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-</td>
-<td align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</td>
-<td align="center">
-
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</td>
-<td align="center">
-
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </td>
 <td align="center">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML and CSS](https://img.shields.io/badge/HTML_%26_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </td>
 <td align="center">
 
-![Entity Framework](https://img.shields.io/badge/ENTITY_FRAMEWORK-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </td>
 <td align="center">
 
-![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
@@ -141,12 +118,35 @@ Throughout my academic journey, I developed projects involving web applications,
 </td>
 <td align="center">
 
-![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_IDENTITY-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
 <td align="center">
 
-![Cisco](https://img.shields.io/badge/CISCO_PACKET_TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td align="center">
+
+![Entity Framework](https://img.shields.io/badge/ENTITY_FRAMEWORK-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</td>
+<td align="center">
+
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+<td align="center">
+
+![Cisco Packet Tracer](https://img.shields.io/badge/CISCO_PACKET_TRACER-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </td>
 </tr>
