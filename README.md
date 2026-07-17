@@ -42,15 +42,7 @@ Throughout my academic journey, I developed projects involving web applications,
 - 🛠️ Focused on practical, structured and reliable software solutions
 
 </td>
-<td width="42%" align="center" valign="middle">
-
-  <img
-    src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"
-    width="300"
-    alt="Cat using a laptop"
-  >
-
-</td>
+<td width="42%" align="center" valign="middle"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" alt="Cat using a laptop" /></td>
 </tr>
 </table>
 
