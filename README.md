@@ -151,3 +151,27 @@ Areas developed throughout my degree:
 ### “Building practical solutions while learning how to make them better, safer and smarter.”
 
 </div>
+---
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DGomes-17/DGomes-17/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DGomes-17/DGomes-17/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Diogo Gomes contribution snake"
+    src="https://raw.githubusercontent.com/DGomes-17/DGomes-17/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<br>
+
+<sub><i>Diogo Gomes © 2026</i></sub>
+
+</div>
