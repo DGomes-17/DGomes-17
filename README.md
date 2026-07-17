@@ -44,8 +44,8 @@ Throughout my academic journey, I developed projects involving web applications,
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img
-    src="[https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif](https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv)"
+  <img
+    src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"
     width="300"
     alt="Cat using a laptop"
   >
