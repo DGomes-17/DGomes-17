@@ -38,7 +38,6 @@ Throughout my academic journey, I developed projects involving web applications,
 - 🎓 Degree in Software Engineering 
 - 🤖 Interested in Artificial Intelligence and intelligent systems
 - 🔐 Interested in Cybersecurity, networks and secure systems
-- 🌐 Academic background in distributed systems and computer networks
 - 🛠️ Focused on practical, structured and reliable software solutions
 
 </td>
