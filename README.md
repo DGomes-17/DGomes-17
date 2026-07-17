@@ -35,7 +35,7 @@ I am a recent **Software Engineering graduate** from the University of Trás-os-
 
 Throughout my academic journey, I developed projects involving web applications, databases, distributed systems, computer networks and AI literacy.
 
-- 🎓 Degree in Computer Science Engineering
+- 🎓 Degree in Software Engineering 
 - 🤖 Interested in Artificial Intelligence and intelligent systems
 - 🔐 Interested in Cybersecurity, networks and secure systems
 - 🌐 Academic background in distributed systems and computer networks
