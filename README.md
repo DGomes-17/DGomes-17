@@ -44,7 +44,11 @@ Throughout my academic journey, I developed projects involving web applications,
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://github.com/DGomes-17.png" width="230" alt="Diogo Gomes GitHub profile picture">
+<img
+    src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"
+    width="300"
+    alt="Cat using a laptop"
+  >
 
 </td>
 </tr>
