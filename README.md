@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I am a recent **Computer Science Engineering graduate** from the University of Trás-os-Montes e Alto Douro, with an interest in **Artificial Intelligence, Cybersecurity and software development**.
+I am a recent **Software Engineering graduate** from the University of Trás-os-Montes e Alto Douro, with an interest in **Artificial Intelligence, Cybersecurity and software development**.
 
 Throughout my academic journey, I developed projects involving web applications, databases, distributed systems, computer networks and AI literacy.
 
