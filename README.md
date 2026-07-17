@@ -2,7 +2,12 @@
 
 # 👋 Hi there, I'm Diogo Gomes!
 
-### `Artificial Intelligence • Cybersecurity • Software Development`
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F8CEB&center=true&vCenter=true&width=750&height=60&lines=Informatics+Engineering+Graduate;Artificial+Intelligence;Cybersecurity;Software+Engineering"
+    alt="Typing SVG"
+  />
+</a>
 
 <br>
 
