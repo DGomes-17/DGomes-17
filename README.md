@@ -53,7 +53,7 @@ Throughout my academic journey, I developed projects involving web applications,
 
 <table>
 <tr>
-<th>Core</th>
+<th>Programming</th>
 <th>Web & Backend</th>
 <th>Data & Databases</th>
 <th>Tools & Systems</th>
@@ -131,7 +131,7 @@ Throughout my academic journey, I developed projects involving web applications,
 <tr>
 <td align="center">
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 
 </td>
 <td align="center">
